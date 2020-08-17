@@ -6,5 +6,5 @@ function testFunc() {
 
 
 function superbowlWin(records){
-  records.find(r => r ===)
+  const records.find(r => r === "win");
 }
