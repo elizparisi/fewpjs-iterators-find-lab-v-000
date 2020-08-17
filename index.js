@@ -5,6 +5,6 @@ function testFunc() {
 }
 
 
-function superbowlWin(array){
-  
+function superbowlWin(records){
+  records.find(r => r ===)
 }
